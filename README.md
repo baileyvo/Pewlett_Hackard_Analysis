@@ -23,9 +23,9 @@ Four insights can be drawn from the analysis:
 
 ## Summary
 After this analysis, there are two major questions to ask:
-- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+- **How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
 Assuming all retiring employees need to be replaced, there are 72,428 roles that will need to be filled as the "silver tsunami" begins to make an impact.
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+- **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
 With only 1,549 employees identified in the membership eligibility group, there are not enough to mentor the next generation of Pewlett Hackard employees.
 
 ### Further Analysis
