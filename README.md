@@ -12,7 +12,9 @@ The purpose of this analysis was to determine the number of retiring employees p
 ### Tables from which Insights Were Drawn
 ![Retiring Titles](https://github.com/baileyvo/Pewlett_Hackard_Analysis/blob/main/Retiring_Titles.PNG)
 
-![Mentorship Eligibility](https://github.com/baileyvo/Pewlett_Hackard_Analysis/blob/main/Mentorship_Eligibility.PNG)- this image shows only the first ten rows to demonstrate the data generated.
+![Mentorship Eligibility](https://github.com/baileyvo/Pewlett_Hackard_Analysis/blob/main/Mentorship_Eligibility.PNG)
+
+This image shows only the first ten rows to demonstrate the data generated.
 
 ### Insights
 Four insights can be drawn from the analysis:
